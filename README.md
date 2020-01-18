@@ -1,2 +1,10 @@
-# CPSproj
-individual repository from Flatiron's 2nd project, which utilized Chicago Public School dataset
+# Chicago Public School Project
+
+Introduction
+  This repository is an individual repository
+  
+Progression
+
+Result
+
+Follow-up
