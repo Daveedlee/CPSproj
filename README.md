@@ -1,9 +1,9 @@
 # Chicago Public School Project
 
 Introduction
-
-    This repository is a spin-off from a group project I had done with Syd Rothman at Flatiron School. The original project can be found here (https://github.com/sydroth/CPSdata). 
-    The whole idea of analyzing CPS (Chicago Public School) dataset came rather whimsically-I was watching DNC presidential debate one night and the guy I could relate to most (Andrew Yang) said the following:
+This repository is a spin-off from a group project I had done with Syd Rothman at Flatiron School. The original project can be found here (https://github.com/sydroth/CPSdata). 
+    
+The whole idea of analyzing CPS (Chicago Public School) dataset came rather whimsically-I was watching DNC presidential debate one night and the guy I could relate to most (Andrew Yang) said the following:
     
     "70-75% of kids' academic performance is determined by out-of-school factors: 
     parental time, income, neighborhood, and etc. Putting resources into families' 
