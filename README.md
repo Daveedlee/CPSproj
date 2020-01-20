@@ -1,6 +1,6 @@
 # Chicago Public School Project
 
-Introduction
+Introduction\n
 This repository is a spin-off from a group project I had done with Syd Rothman at Flatiron School. The original project can be found here (https://github.com/sydroth/CPSdata). 
     
 The whole idea of analyzing CPS (Chicago Public School) dataset came rather whimsically-I was watching DNC presidential debate one night and the guy I could relate to most (Andrew Yang) said the following:
@@ -23,5 +23,3 @@ Progression
   3. Two hypotheses has been tested
   4. The findings have been presented
   5. Further research is underway. 
-
-Result
