@@ -40,3 +40,27 @@ The biggest question that loomed over my head as I approached this project was p
     - Amalgamation of unemployment, education, per capita income, poverty, crowded housing, dependency. Ranked by neighborhood (lower the better)
   
 ## Findings
+Test 1: Top 10 neighborhoods vs the rest
+The SGR mean of top 10 neighborhoods, according to Hardship Index, was compared against the rest of the neighborhoods. 
+Null Hypothesis: The mean SGR don’t vary by the neighborhood, which the school is located in.
+Alternative Hypothesis: The location of school has significant impact on SGR
+
+Results:
+Critical t-value = 1.795
+p-value = 0.1019
+
+Test 2: Chartered schools vs non-chartered school
+The SGR mean of chartered schools was compared against non-chartered schools.
+Null Hypothesis: SGR
+Alternative Hypothesis:
+
+Results:
+Critical t-value = 1.68
+p-value = 0.0012
+
+## Conclusion
+Good students may not improve much (sampling bias)
+35 schools did not provide student growth data
+Not having a raw metric (vs compared to national average) may hinder student growth rating’s significance
+Parental time???
+
