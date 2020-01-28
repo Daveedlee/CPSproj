@@ -26,4 +26,4 @@ The biggest question that loomed over my head as I approached this project was p
   2. Hardship index
     - Amalgamation of unemployment, education, per capita income, poverty, crowded housing, dependency. Ranked by neighborhood (lower the better)
   
-
+## Findings
