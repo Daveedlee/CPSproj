@@ -1,8 +1,14 @@
 # Chicago Public School Project
 
+## Progression
+  1. Dataset acquired from Chicago Data Portal
+  2. Exploratory data analysis has been performed
+  3. Two hypotheses has been tested
+  4. The findings have been presented
+  5. **Further research is underway.**
+  
+  
 ## Introduction
-This repository is a spin-off from a group project I had done with Syd Rothman at Flatiron School. The original project can be found here (https://github.com/sydroth/CPSdata). 
-    
 The whole idea of analyzing CPS (Chicago Public School) dataset came rather whimsically-I was watching DNC presidential debate one night and the guy I could relate to most (Andrew Yang) said the following:
     
     "70-75% of kids' academic performance is determined by out-of-school factors: 
@@ -11,15 +17,13 @@ The whole idea of analyzing CPS (Chicago Public School) dataset came rather whim
     
 It all made sense; of course the other factors matter. The question was that would it show? "Well, it should," I thought. And that's how this project began.
 
+## Methodology
+The biggest question that loomed over my head as I approached this project was perhaps what many policymakers (hopefully) wonder: what makes a school better than the others? Is it the football team or is it the debate team? Or maybe the award-winning faculty? My answer to this question was rather a student get better academically over time. The dataset provided by the Chicago Public Schools had this metric called "Student Growth Rate." I took the growth rate and merged with the dataset that had the "Prosperity Rating" and "Hardship Index." Finally, I performed a T-test on the merged dataset using scipy.
+
 ## Metrics to consider:
   1. Student Growth Rating (SGR)
     - SGR measures the percent increase in standardized exam scores in course of two years and compares them to the national average. 1: below average, 2: average, 3: above average, 4: far above average
   2. Hardship index
     - Amalgamation of unemployment, education, per capita income, poverty, crowded housing, dependency. Ranked by neighborhood (lower the better)
   
-## Progression
-  1. Dataset acquired from Chicago Data Portal
-  2. Exploratory data analysis has been performed
-  3. Two hypotheses has been tested
-  4. The findings have been presented
-  5. Further research is underway. 
+
