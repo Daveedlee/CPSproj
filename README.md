@@ -17,6 +17,16 @@ The whole idea of analyzing CPS (Chicago Public School) dataset came rather whim
     
 It all made sense; of course the other factors matter. The question was that would it show? "Well, it should," I thought. And that's how this project began.
 
+## Datasets
+Affordable Rental Housing Developments
+https://catalog.data.gov/dataset/affordable-rental-housing-developments-ef5c2/resource/4bbbc75c-6083-4168-b34f-662dbbe5b97f
+
+Chicago Public Schools - School Progress Reports SY1819
+https://catalog.data.gov/dataset/chicago-public-schools-school-progress-reports-sy1819/resource/3b087de5-b047-47fa-8ece-2ff667b84fb9
+
+Census Data - Selected socioeconomic indicators in Chicago, 2008 – 2012
+https://data.cityofchicago.org/resource/kn9c-c2s2.json
+
 ## Methodology
 The biggest question that loomed over my head as I approached this project was perhaps what many policymakers (hopefully) wonder: what makes a school better than the others? Is it the football team or is it the debate team? Or maybe the award-winning faculty? My answer to this question was rather a student get better academically over time. The dataset provided by the Chicago Public Schools had this metric called "Student Growth Rate." I took the growth rate and merged with the dataset that had the "Prosperity Rating" and "Hardship Index." Finally, I performed a T-test on the merged dataset using scipy.
 
