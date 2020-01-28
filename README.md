@@ -5,8 +5,7 @@
   2. Exploratory data analysis has been performed
   3. Two hypotheses has been tested
   4. The findings have been presented
-  
-**5. Further research is underway.**
+  5. **Further research is underway.**
   
   
 ## Introduction
