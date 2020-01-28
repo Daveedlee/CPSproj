@@ -19,12 +19,15 @@ It all made sense; of course the other factors matter. The question was that wou
 
 ## Datasets
 Affordable Rental Housing Developments
+
 https://catalog.data.gov/dataset/affordable-rental-housing-developments-ef5c2/resource/4bbbc75c-6083-4168-b34f-662dbbe5b97f
 
 Chicago Public Schools - School Progress Reports SY1819
+
 https://catalog.data.gov/dataset/chicago-public-schools-school-progress-reports-sy1819/resource/3b087de5-b047-47fa-8ece-2ff667b84fb9
 
 Census Data - Selected socioeconomic indicators in Chicago, 2008 – 2012
+
 https://data.cityofchicago.org/resource/kn9c-c2s2.json
 
 ## Methodology
