@@ -4,8 +4,7 @@
   1. Dataset acquired from Chicago Data Portal
   2. Exploratory data analysis has been performed
   3. Two hypotheses has been tested
-  4. The findings have been presented
-  5. **Further research is underway.**
+  4. **The findings have been presented**
   
   
 ## Introduction
@@ -36,31 +35,35 @@ The biggest question that loomed over my head as I approached this project was p
 ## Metrics to consider:
   1. Student Growth Rating (SGR)
     - SGR measures the percent increase in standardized exam scores in course of two years and compares them to the national average. 1: below average, 2: average, 3: above average, 4: far above average
-  2. Hardship index
+  2. Hardship Index
     - Amalgamation of unemployment, education, per capita income, poverty, crowded housing, dependency. Ranked by neighborhood (lower the better)
   
 ## Findings
 Test 1: Top 10 neighborhoods vs the rest
-The SGR mean of top 10 neighborhoods, according to Hardship Index, was compared against the rest of the neighborhoods. 
-Null Hypothesis: The mean SGR don’t vary by the neighborhood, which the school is located in.
-Alternative Hypothesis: The location of school has significant impact on SGR
+The mean SGR of top 10 neighborhoods, according to Hardship Index, was compared against the rest of the neighborhoods. 
+*Null Hypothesis: The mean SGR of the schools in top 10 neighborhoods **doesn't differ** significantly when compared to the mean SGR of the other neighborhoods.
+*Alternative Hypothesis: The mean SGR of the schools in top 10 neighborhoods **differs** significantly when compared to the mean SGR of the other neighborhoods.
 
 Results:
 Critical t-value = 1.795
-p-value = 0.1019
+**p-value = 0.1019**
+=> Failed to reject the null hypothesis; we failed to find an evidence to reject the claim that the SGR doesn't vary by the location of the school.
 
 Test 2: Chartered schools vs non-chartered school
 The SGR mean of chartered schools was compared against non-chartered schools.
-Null Hypothesis: SGR
-Alternative Hypothesis:
+*Null Hypothesis: The mean SGR of chartered schools doesn't differ significantly when compared to the mean SGR of non-chartered schools.
+*Alternative Hypothesis: The mean SGR of chartered schools differs significantly when compared to the mean SGR of non-chartered schools.
 
 Results:
 Critical t-value = 1.68
-p-value = 0.0012
+**p-value = 0.0012**
+=> Reject the null hypothesis; the test statistics show an evidence to reject the null hypothesis.
 
 ## Conclusion
-Good students may not improve much (sampling bias)
-35 schools did not provide student growth data
-Not having a raw metric (vs compared to national average) may hinder student growth rating’s significance
-Parental time???
+The conclusion, as forementioned, was quite anti-climatic. According to the test, it isn't true that the schools in better neighborhood have better chance of improving a student's standardized test score. The reason I ran the second test was to check if SGR as a metric could be trusted. Once again, I was surprised when the result showed that chartered schools have better chance of improving a student's SGR score-it seems to have some meaning. With perplexed mind, let's consider a few:
+
+*Good students may not improve much (sampling bias)
+*35 schools did not provide student growth data
+*Not having a raw metric (vs compared to national average) may hinder student growth rating’s significance
+*Parental time???
 
