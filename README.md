@@ -41,8 +41,8 @@ The biggest question that loomed over my head as I approached this project was p
 ## Findings
 Test 1: Top 10 neighborhoods vs the rest
 The mean SGR of top 10 neighborhoods, according to Hardship Index, was compared against the rest of the neighborhoods. 
-*Null Hypothesis: The mean SGR of the schools in top 10 neighborhoods **doesn't differ** significantly when compared to the mean SGR of the other neighborhoods.
-*Alternative Hypothesis: The mean SGR of the schools in top 10 neighborhoods **differs** significantly when compared to the mean SGR of the other neighborhoods.
+Null Hypothesis: The mean SGR of the schools in top 10 neighborhoods **doesn't differ** significantly when compared to the mean SGR of the other neighborhoods.
+Alternative Hypothesis: The mean SGR of the schools in top 10 neighborhoods **differs** significantly when compared to the mean SGR of the other neighborhoods.
 
 Results:
 Critical t-value = 1.795
@@ -51,8 +51,8 @@ Critical t-value = 1.795
 
 Test 2: Chartered schools vs non-chartered school
 The SGR mean of chartered schools was compared against non-chartered schools.
-*Null Hypothesis: The mean SGR of chartered schools doesn't differ significantly when compared to the mean SGR of non-chartered schools.
-*Alternative Hypothesis: The mean SGR of chartered schools differs significantly when compared to the mean SGR of non-chartered schools.
+Null Hypothesis: The mean SGR of chartered schools doesn't differ significantly when compared to the mean SGR of non-chartered schools.
+Alternative Hypothesis: The mean SGR of chartered schools differs significantly when compared to the mean SGR of non-chartered schools.
 
 Results:
 Critical t-value = 1.68
@@ -62,8 +62,8 @@ Critical t-value = 1.68
 ## Conclusion
 The conclusion, as forementioned, was quite anti-climatic. According to the test, it isn't true that the schools in better neighborhood have better chance of improving a student's standardized test score. The reason I ran the second test was to check if SGR as a metric could be trusted. Once again, I was surprised when the result showed that chartered schools have better chance of improving a student's SGR score-it seems to have some meaning. With perplexed mind, let's consider a few:
 
-*Good students may not improve much (sampling bias)
-*35 schools did not provide student growth data
-*Not having a raw metric (vs compared to national average) may hinder student growth rating’s significance
-*Parental time???
+Good students may not improve much (sampling bias)
+35 schools did not provide student growth data
+Not having a raw metric (vs compared to national average) may hinder student growth rating’s significance
+Parental time???
 
