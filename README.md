@@ -62,8 +62,8 @@ Critical t-value = 1.68
 ## Conclusion
 The conclusion, as forementioned, was quite anti-climatic. According to the test, it isn't true that the schools in better neighborhood have better chance of improving a student's standardized test score. The reason I ran the second test was to check if SGR as a metric could be trusted. Once again, I was surprised when the result showed that chartered schools have better chance of improving a student's SGR score-it seems to have some meaning. With perplexed mind, let's consider a few:
 
-Good students may not improve much (sampling bias)
-35 schools did not provide student growth data
-Not having a raw metric (vs compared to national average) may hinder student growth rating’s significance
-Parental time???
+* Good students may not improve much (sampling bias)
+* 35 schools did not provide student growth data
+* Not having a raw metric (vs compared to national average) may hinder student growth rating’s significance
+* Parental time???
 
