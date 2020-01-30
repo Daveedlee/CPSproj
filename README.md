@@ -34,9 +34,9 @@ The biggest question that loomed over my head as I approached this project was p
 
 ## Metrics to consider:
   1. Student Growth Rating (SGR)
-    - SGR measures the percent increase in standardized exam scores in course of two years and compares them to the national average. 1: below average, 2: average, 3: above average, 4: far above average
+    * SGR measures the percent increase in standardized exam scores in course of two years and compares them to the national average. 1: below average, 2: average, 3: above average, 4: far above average
   2. Hardship Index
-    - Amalgamation of unemployment, education, per capita income, poverty, crowded housing, dependency. Ranked by neighborhood (lower the better)
+    * Amalgamation of unemployment, education, per capita income, poverty, crowded housing, dependency. Ranked by neighborhood (lower the better)
   
 ## Findings
 Test 1: Top 10 neighborhoods vs the rest
@@ -47,6 +47,7 @@ The mean SGR of top 10 neighborhoods, according to Hardship Index, was compared 
 Results:
 * Critical t-value = 1.795
 * **p-value = 0.1019**
+
 => Failed to reject the null hypothesis; we failed to find an evidence to reject the claim that the SGR doesn't vary by the location of the school.
 
 Test 2: Chartered schools vs non-chartered school
@@ -57,6 +58,7 @@ The SGR mean of chartered schools was compared against non-chartered schools.
 Results:
 * Critical t-value = 1.68
 * **p-value = 0.0012**
+
 => Reject the null hypothesis; the test statistics show an evidence to reject the null hypothesis.
 
 ## Conclusion
