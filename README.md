@@ -34,6 +34,10 @@ Census Data - Selected socioeconomic indicators in Chicago, 2008 – 2012
 ## Methodology
 The biggest question that loomed over my head as I approached this project was perhaps what many policymakers (hopefully) wonder: what makes a school better than the others? Is it the football team or is it the debate team? Or maybe the award-winning faculty? My answer to this question was rather a student get better academically over time. The dataset provided by the Chicago Public Schools had this metric called "Student Growth Rate." I took the growth rate and merged with the dataset that had the "Prosperity Rating" and "Hardship Index." Finally, I performed a T-test on the merged dataset using scipy.
 
+## Components:
+analysis.ipynb - the main notebook; includes all graphics and tests.
+cleaner.ipynb - a function-storing file.
+
 ## Metrics to consider:
   1. Student Growth Rating (SGR)
      SGR measures the percent increase in standardized exam scores in course of two years and compares them to the national average. 1: below average, 2: average, 3: above average, 4: far above average
