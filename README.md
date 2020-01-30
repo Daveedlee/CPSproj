@@ -45,8 +45,8 @@ The mean SGR of top 10 neighborhoods, according to Hardship Index, was compared 
 * Alternative Hypothesis: The mean SGR of the schools in top 10 neighborhoods **differs** significantly when compared to the mean SGR of the other neighborhoods.
 
 Results:
-Critical t-value = 1.795
-**p-value = 0.1019**
+* Critical t-value = 1.795
+* **p-value = 0.1019**
 => Failed to reject the null hypothesis; we failed to find an evidence to reject the claim that the SGR doesn't vary by the location of the school.
 
 Test 2: Chartered schools vs non-chartered school
@@ -55,8 +55,8 @@ The SGR mean of chartered schools was compared against non-chartered schools.
 * Alternative Hypothesis: The mean SGR of chartered schools differs significantly when compared to the mean SGR of non-chartered schools.
 
 Results:
-Critical t-value = 1.68
-**p-value = 0.0012**
+* Critical t-value = 1.68
+* **p-value = 0.0012**
 => Reject the null hypothesis; the test statistics show an evidence to reject the null hypothesis.
 
 ## Conclusion
