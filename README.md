@@ -34,9 +34,9 @@ The biggest question that loomed over my head as I approached this project was p
 
 ## Metrics to consider:
   1. Student Growth Rating (SGR)
-    * SGR measures the percent increase in standardized exam scores in course of two years and compares them to the national average. 1: below average, 2: average, 3: above average, 4: far above average
+     SGR measures the percent increase in standardized exam scores in course of two years and compares them to the national average. 1: below average, 2: average, 3: above average, 4: far above average
   2. Hardship Index
-    * Amalgamation of unemployment, education, per capita income, poverty, crowded housing, dependency. Ranked by neighborhood (lower the better)
+     Amalgamation of unemployment, education, per capita income, poverty, crowded housing, dependency. Ranked by neighborhood (lower the better)
   
 ## Findings
 Test 1: Top 10 neighborhoods vs the rest
