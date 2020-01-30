@@ -60,10 +60,5 @@ Critical t-value = 1.68
 => Reject the null hypothesis; the test statistics show an evidence to reject the null hypothesis.
 
 ## Conclusion
-The conclusion, as forementioned, was quite anti-climatic. According to the test, it isn't true that the schools in better neighborhood have better chance of improving a student's standardized test score. The reason I ran the second test was to check if SGR as a metric could be trusted. Once again, I was surprised when the result showed that chartered schools have better chance of improving a student's SGR score-it seems to have some meaning. With perplexed mind, let's consider a few:
-
-* Good students may not improve much (sampling bias)
-* 35 schools did not provide student growth data
-* Not having a raw metric (vs compared to national average) may hinder student growth rating’s significance
-* Parental time???
+The conclusion, as forementioned, was quite anti-climatic. According to the test, it isn't true that the schools in better neighborhood have better chance of improving a student's standardized test score. The reason I ran the second test was to check if SGR as a metric could be trusted. Once again, I was surprised when the result showed that chartered schools have better chance of improving a student's SGR score-it seems to have some meaning. So, was Andrew Yang wrong? Well, I wouldn't say that conclusively. There are a few to consider: it could be that good students may not improve as much. Or it could be that the parental time, as mentioned by Andrew, has more parts to play. Furthermore, it should be noted that 35 schools did not provide student growth rate.
 
